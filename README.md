@@ -28,8 +28,8 @@ To run this project, install it locally:
 * git clone https://github.com/AfnanBq/learning-projects.git
 * cd /earning-projects/shopping
 * install all the required libraries [Technologies](#technologies)
+** run the following command.
 ```
-* run the following command put your values for the arguments.
 python shopping.py shopping.csv
 
 ```
