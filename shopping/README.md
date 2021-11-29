@@ -1,4 +1,5 @@
 # Shopping
+This project is implemented to predict whether the online buyers would complete their purshase according to an information about the buyer. 
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -9,13 +10,15 @@
 * [Sources](#sources)
 
 ## Introduction
-
+Online shopping have became one of the modern business aspects, so get knowing your customers' desire would help you to improve your methods to encourage them purshasing. In this project I implemented a mchine learning project that predict if the customer intend to buy according to the customer's behaviours. The project is implemented by using nearest-neighbor classifier and measure the model performance through sensitivity and specificity values.
 
 ## Results
-* Correct: 4069
-* Incorrect: 863
-* True Positive Rate: 42.13%
-* True Negative Rate: 89.88%
+* Correct: 4047
+* Incorrect: 885
+* True Positive Rate: 38.13%
+* True Negative Rate: 90.73%
+* Accuracy: 82.06%
+
 
 ## Technologies
 Project is created with:
