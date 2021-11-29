@@ -1,5 +1,5 @@
 # learning 
-In this repo you will find projects implemented with the concepts of Machine Learing (ML) that are mentioned in this lecture https://cs50.harvard.edu/ai/2020/weeks/4/ to understanding and foster your capabilities in ML field.
+In this repo you will find projects implemented the concepts of Machine Learing (ML) that are mentioned in this lecture https://cs50.harvard.edu/ai/2020/weeks/4/ to understanding and foster your capabilities in ML field.
 
 ## Table of contents
 * [Projects](#projects)
