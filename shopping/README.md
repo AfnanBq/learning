@@ -36,7 +36,7 @@ To run this project, install it locally:
 python shopping.py shopping.csv
 ```
 ## Contact
-* Afnan Qalas - http://linkedin.com/in/afnanbalghaith
+* [Afnan Qalas](http://linkedin.com/in/afnanbalghaith)
 
 ## Sources
-This project is inspired by https://cs50.harvard.edu/ai/2020/projects/4/shopping/
+This project is inspired by [cs50](https://cs50.harvard.edu/ai/2020/projects/4/shopping/)
