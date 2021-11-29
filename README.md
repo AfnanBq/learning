@@ -6,7 +6,8 @@ In this repo you will find projects are applied the concepts of Machine Learing 
 * [Contact](#contact)
 
 ## Projects
-* [Shopping] (#https://github.com/AfnanBq/learning-projects/tree/main/shopping)
+* [Shopping](https://github.com/AfnanBq/learning-projects/tree/main/shopping)
+* [Nim](#) 
 
 
 ## Contact
