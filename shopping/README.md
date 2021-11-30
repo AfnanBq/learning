@@ -1,5 +1,5 @@
 # Shopping
-This project is implemented to predict whether the online buyers would complete their purshase according to an information about the buyer. 
+This project is implemented to predict whether the online shopping buyers would complete their purshase according to an information about the buyer. 
 
 ## Table of contents
 * [Introduction](#introduction)
