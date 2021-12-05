@@ -1,5 +1,5 @@
 # Shopping
-This project is implemented to predict whether the online shopping buyers would complete their purchase according to an information about the buyer. 
+This project is implemented to predict whether the online shopping buyers would complete their purchase according to information about the buyer. 
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -10,7 +10,7 @@ This project is implemented to predict whether the online shopping buyers would 
 * [Sources](#sources)
 
 ## Introduction
-Online shopping have became one of the modern business aspects, so get knowing your customers' desire would help you to improve your methods to encourage them purshasing. In this project I implemented a mchine learning project that predict if the customer intend to buy or no according to the customer's behaviours. The project is implemented by using nearest-neighbor classifier and measure the model performance through sensitivity and specificity values.
+Online shopping has become one of the modern business aspects, so get knowing your customers' desires would help you to improve your methods to encourage them to purchase. In this project, I implemented a machine learning project that predicts if the customer intends to buy or not according to the customer's behaviors. The project is implemented by using a nearest-neighbor classifier and measuring the model performance through sensitivity and specificity values.
 
 ## Results
 * Correct: 4047
